@@ -29,7 +29,7 @@ const questions = [
     type: "list",
     message: "Choose a license",
     name: "license",
-    choices: ["BSD", "GPL", "ISC", "MIT", "None"],
+    choices: ["BSD", "Eclipse", "ISC", "MIT", "None"],
   },
   {
     type: "input",
@@ -55,6 +55,11 @@ const questions = [
     type: "input",
     message: "Enter email",
     name: "email",
+  },
+  {
+    type: "input",
+    message: "Enter year",
+    name: "year",
   },
 ];
 
