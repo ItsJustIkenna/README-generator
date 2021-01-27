@@ -1,9 +1,10 @@
 
-# README-generator
+# burger-app
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
 
-auto-generates a README.md
+A full-stack application that allows you to add burgers to a list and eat them. Burgers are stored in the database and the app has full crud functionality.
 
 ## Table Of Contents
 
