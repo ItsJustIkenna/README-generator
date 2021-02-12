@@ -1,10 +1,10 @@
 
-# burger-app
+# budget-tracker
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-A full-stack application that allows you to add burgers to a list and eat them. Burgers are stored in the database and the app has full crud functionality.
+An application that allows users to be able to add expenses and deposits to their budget with or without a connection. When entering a transaction online, the transaction populates the total when broght back online.
 
 ## Table Of Contents
 
