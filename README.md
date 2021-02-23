@@ -1,10 +1,10 @@
 
-# budget-tracker
+# react-portfolio
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-An application that allows users to be able to add expenses and deposits to their budget with or without a connection. When entering a transaction online, the transaction populates the total when broght back online.
+A web development portfolio built in react.js
 
 ## Table Of Contents
 
